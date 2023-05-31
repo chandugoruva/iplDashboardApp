@@ -1,0 +1,82 @@
+.bg-color {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  justify-content: center;
+}
+.RCB {
+  background-color: #a4261d;
+}
+.KKR {
+  background-color: #5755a7;
+}
+.KXP {
+  background-color: #d91c1f;
+}
+.CSK {
+  background-color: #f7db00;
+}
+.RR {
+  background-color: #13418b;
+}
+.MI {
+  background-color: #13418b;
+}
+.SH {
+  background-color: #f26d22;
+}
+.DC {
+  background-color: #4f5db0;
+}
+.banner-image {
+  height: 300px;
+}
+.latest-paragraph {
+  color: #ffffff;
+  font-size: 16px;
+  font-family: 'Bree Serif';
+  font-weight: 400;
+}
+.paragraph-team {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Bree Serif';
+  font-weight: 400;
+}
+.team-date {
+  color: #ffffff;
+  font-size: 16px;
+  font-family: 'Bree Serif';
+}
+.latest-item {
+  background-color: #0f172a;
+  min-width: 600px;
+  min-height: 200px;
+  border-radius: 10px;
+  padding: 20px;
+}
+.paragraph {
+  color: #ffffff;
+  font-size: 14px;
+}
+.compete-logo {
+  height: 130px;
+}
+.compete-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.items {
+  display: flex;
+  flex-direction: column;
+
+  align-items: flex-end;
+}
+.ul {
+  display: flex;
+  flex-direction: row;
+
+  flex-wrap: wrap;
+}

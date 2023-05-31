@@ -1,0 +1,27 @@
+.match-card {
+  background-color: #ffffff33;
+  border: #ffffff 2px solid;
+  max-width: 400px;
+  min-height: 190px;
+  border-radius: 10px;
+  padding: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+.team-image {
+  height: 130px;
+  width: 130px;
+  margin-right: 10px;
+}
+.team-heading {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: 'Bree Serif';
+}
+.team-flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
